@@ -83,7 +83,7 @@ $(function () {
     .to('#parachute', {
       x: '-80%',
       y: '250%',
-      rotation: 30,
+      rotation: 40,
     })
 
   new ScrollMagic.Scene({
